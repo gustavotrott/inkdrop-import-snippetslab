@@ -1,0 +1,18 @@
+{
+  "menu": [
+    {
+      "label": "File",
+      "submenu": [
+        {
+          "label": "Import",
+          "submenu": [
+            {
+              "label": "from SnippetsLab Json",
+              "command": "import-snippetslab:invoke"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

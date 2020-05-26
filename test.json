@@ -1,0 +1,53 @@
+{
+  "Library Name" : "main.snippetslablibrary",
+  "Date Exported" : "2020-05-24 21:01:04 -0300",
+  "Snippets Count" : "2",
+  "Snippets" : [
+    {
+      "Date Created" : "2017-03-29 14:44:16 -0300",
+      "Date Modified" : "2017-03-29 14:44:19 -0300",
+      "Folder" : "ImportFromSL",
+      "Title" : "Note One",
+      "Fragments" : [
+        {
+          "Content" : "<a href=\"x\" data-confirm=\"Are you sure?\">Delete<\/a>\n\n<a href=\"x\" data-confirm=\"Are you sure?\">Delete<\/a>",
+          "Date Modified" : "2017-03-29 14:44:44 -0300",
+          "Note" : "",
+          "Title" : "Fragment",
+          "Language" : "HTML",
+          "Date Created" : "2017-03-29 14:44:16 -0300"
+        },
+        {
+          "Content" : "select column_name from information_schema.columns where table_name = 'table name goes here';",
+          "Date Modified" : "2017-03-29 14:44:44 -0300",
+          "Note" : "",
+          "Title" : "Other Fragment",
+          "Language" : "SQL",
+          "Date Created" : "2017-03-29 14:44:16 -0300"
+        }
+      ],
+      "Tags" : [
+
+      ]
+    },
+    {
+      "Date Created" : "2020-05-24 21:00:02 -0300",
+      "Date Modified" : "2020-05-24 21:00:44 -0300",
+      "Folder" : "ImportFromSL",
+      "Title" : "Other note",
+      "Fragments" : [
+        {
+          "Content" : "Hey :D",
+          "Date Modified" : "2020-05-24 21:00:06 -0300",
+          "Note" : "",
+          "Title" : "Fragment",
+          "Language" : "Plain Text",
+          "Date Created" : "2020-05-24 21:00:02 -0300"
+        }
+      ],
+      "Tags" : [
+        "LabelRatb"
+      ]
+    }
+  ]
+}
