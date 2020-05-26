@@ -10,7 +10,13 @@ ipm install inkdrop-import-snippetslab
 
 # Usage
 
-+ First export your 
++ First export your notes in SnippetsLab:
+
+Choose File > Export… from the menubar.
+![inkdrop-export](https://user-images.githubusercontent.com/5660191/82855312-58a10800-9ee1-11ea-8149-dc697feca0ae.png)
+
+Choose a location and format Json, then click Export.
+![inkdrop-export-json](https://user-images.githubusercontent.com/5660191/82855315-5b9bf880-9ee1-11ea-8df5-bb6c2712f56a.png)
 
 + Install this plugin.
 + File -> Import -> from SnippetsLab Json, then the file dialog opens.
