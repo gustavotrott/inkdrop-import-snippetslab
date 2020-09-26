@@ -1,7 +1,7 @@
 {
   "name": "inkdrop-import-snippetslab",
   "main": "./lib/import-snippetslab",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This plugin allows you to import notes from SnippetsLab (exported as SnippetsLab Json).",
   "keywords": [],
   "repository": "https://github.com/gustavotrott/inkdrop-import-snippetslab",
@@ -10,6 +10,6 @@
     "inkdrop": "^4.x"
   },
   "dependencies": {
-    "core-js": "^2.6.11"
+    "core-js": "^3.6.5"
   }
 }
